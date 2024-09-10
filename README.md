@@ -1,4 +1,4 @@
-JOIN: https://discord.gg/nUVuMEYA , discord.gg/raducord (best servers frfr)
+JOIN: https://discord.gg/dvM3BBqcZX , https://discord.gg/raducord (best servers frfr)
 
 sexy ahh stocker
 
