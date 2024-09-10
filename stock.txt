@@ -1,0 +1,2 @@
+stock 1
+# make more stock txts  as per ur need

@@ -1,0 +1,11 @@
+{
+    "ToReply": "", #dm replier (can be turned off)
+    "webhook": "", #for logs
+    "servers": {
+        "server id here": {
+            "name": "add name of server to make the ui in cmd look cool dont matter really",
+            "channels": ["channel 1","channel 2"]
+        }
+    }
+}
+#add more servers (same format)(js ask chatgpt if u dumb)
